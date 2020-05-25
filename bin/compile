@@ -10,5 +10,7 @@ LOCATION="$BUILD_DIR/tool"
 
 curl $PACKAGE -s -O
 mkdir -p $LOCATION
+pwd
+ls -lt
 mv ./$BINARY $LOCATION
 
