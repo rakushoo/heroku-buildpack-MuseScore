@@ -1,0 +1,2 @@
+# heroku-buildpack-MuseScore
+HerokuサーバーにMuseScoreをインストールするためのBuildpack
