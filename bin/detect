@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# bin/detect <build-dir>
+
+echo "MuseScore 3.4.2"
+exit 0
+
